@@ -1,0 +1,11 @@
+{
+  "name": "turret_range_multiplier",
+  "version": "1.0.0",
+  "title": "Turret Range Multiplier",
+  "author": "ChatGPT",
+  "description": "Adjust the turrets range using a multiplier.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1"
+  ]
+}
